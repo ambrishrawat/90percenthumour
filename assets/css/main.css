@@ -1649,9 +1649,9 @@
 		}
 
 		.author img {
-			border-radius: 100%;
+			border-radius: 200%;
 			display: block;
-			width: 4em;
+			width: 50%;
 		}
 
 		.author:hover .name {
@@ -3284,7 +3284,7 @@
 		font-size: 0.8em;
 	}
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 1280px) {
 
 		#intro {
 			margin: 0 0 3em 0;
