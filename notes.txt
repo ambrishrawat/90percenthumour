@@ -1,0 +1,7 @@
+1. Downloaded a bootstrap template "Triangle"
+2. Usig Open Sans for logo
+
+Logo details
+Open Sans, Font Size 21, Expanded spacig 1 pt, color from microsoft default template, Lifht for surname and regular+bold for first name
+
+    
