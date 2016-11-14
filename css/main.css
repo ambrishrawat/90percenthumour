@@ -804,10 +804,10 @@ ul.sub-menu {
 
 .person-thumb {
   position: relative;
-  width: 250px;
+  /*width: 250px;
   height: 250px;
   overflow: hidden;
-  border-radius: 85%;
+  border-radius: 85%;*/
 }
 
 .person-thumb img {
@@ -815,7 +815,7 @@ ul.sub-menu {
 
 
 .social-profile {
-  background: none repeat scroll 0 0 rgba(137, 97, 46, 0.8);
+  background: none repeat scroll 0 0;
   display: none;
   position: absolute;
   text-align: center;
@@ -830,7 +830,6 @@ ul.sub-menu {
 }
 
 .team-single:hover .social-profile{
-  background:rgba(112, 35, 64, 0.9);
   display: block;
   -webkit-animation: fadeInUp 400ms;
   animation: fadeInUp 400ms;
@@ -839,6 +838,7 @@ ul.sub-menu {
   -ms-transition: all 0.9s ease;
   -o-transition: all 0.9s ease;
   transition: all 0.9s ease;
+  
 }
 
 .social-profile .nav-pills {
