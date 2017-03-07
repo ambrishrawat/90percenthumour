@@ -4,7 +4,4 @@
 Logo details
 Open Sans, Font Size 21, Expanded spacig 1 pt, color from microsoft default template, Lifht for surname and regular+bold for first name
 
-14th November
-
-Added profile pictures
-removes color form social-profile and soci-profile with hover    
+    
